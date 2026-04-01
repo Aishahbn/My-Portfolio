@@ -1,0 +1,143 @@
+﻿/*body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #333;
+}
+
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
+}*/
+
+
+/* ==================== NAVBAR ==================== */
+
+/*.navbar {
+    background-color: #663300 !important;
+    padding: 10px 20px !important;
+}
+
+    .navbar .nav-link {
+    color: #fff !important;
+    font-size: 18px;
+    margin-right: 12px;
+}
+    .navbar .nav-link:hover {
+    color: #f3d9b1 !important;
+}
+
+        .navbar a:hover {
+            background-color: #552800 !important;
+            border-radius: 6px;
+        }*/
+
+
+    /* Sticky on scroll */
+    /*.navbar.scrolled {
+        background-color: #4b2300 !important;
+        transition: 0.3s ease-in-out;
+    }*/
+
+
+/* ==================== PAGE CONTENT ==================== */
+
+/*#MainContent {
+    padding: 40px 60px;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #663300;
+}*/
+
+
+/* ==================== HERO SECTION ==================== */
+
+/*.hero {
+    height: 70vh;
+    background: url("../Images/hero-bg.jpg") center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 0 20px;
+}
+
+    .hero h1 {
+        font-size: 48px;
+        margin-bottom: 10px;
+    }
+
+    .hero p {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .hero .btn {
+        display: inline-block;
+        padding: 12px 28px;
+        font-size: 18px;
+        background-color: #804000;
+        color: white;
+        border-radius: 8px;
+        text-decoration: none;
+    }
+
+        .hero .btn:hover {
+            background-color: #5c2f00;
+        }*/
+
+
+/* ==================== FOOTER ==================== */
+
+/*.footer {
+    background-color: #663300;
+    color: white;
+    padding: 40px 20px;
+    margin-top: 50px;
+}
+
+.footer-content {
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer img {
+    width: 130px;
+    margin-bottom: 15px;
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+}
+
+    .footer ul li {
+        display: inline-block;
+        margin: 0 12px;
+    }
+
+        .footer ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+            .footer ul li a:hover {
+                text-decoration: underline;
+            }
+
+.footer p {
+    margin-top: 15px;
+    font-size: 14px;
+    opacity: 0.8;
+}*/
